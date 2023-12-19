@@ -49,5 +49,5 @@ Pre-trained Xception model evaluates individual frames, providing instantaneous 
 
 ## Working Example of the Project
 
-https://github.com/cauzec/Mood-Analyzer-Through-Facial-Recognition/assets/63592624/b5ad41f1-b407-41cb-8924-6de7bb02efeb
+https://github.com/cauzec/Mood-Analyzer-Through-Facial-Recognition/assets/63592624/9b3d45e2-7ded-46d2-bc65-f5702d6b831a
 
